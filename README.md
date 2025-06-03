@@ -1,7 +1,7 @@
 # 📊 Power BI End-to-End Sales Dashboard (Workshop Project)
 
 This project is a refined and enhanced version of the Microsoft Power BI tutorial:  
-**"Tutorial: From Dimensional Model to Stunning Report in Power BI Desktop"**, recreated and taught by **Mr. Abraham Avila Jr.**, Founder/CEO of [DataSense Analytics](https://datasense.ph), during a free live masterclass session.
+**"Tutorial: From Dimensional Model to Stunning Report in Power BI Desktop"**, recreated and taught by **Mr. Abraham Avila Jr.**, Founder/CEO of [DataSense Analytics](https://datasenseph.com), during a free live masterclass session.
 
 The project uses the **Adventure Works Sales** dataset and demonstrates the full Power BI lifecycle—from data modeling to report creation—with practical insights, best practices, and visual storytelling.
 
@@ -51,7 +51,7 @@ The project uses the **Adventure Works Sales** dataset and demonstrates the full
 
 ## 🎓 Acknowledgments
 
-Special thanks to **Mr. Abraham Avila Jr.**, Founder and CEO of [DataSense Analytics](https://datasense.ph), for conducting this free training and sharing his knowledge and expertise.  
+Special thanks to **Mr. Abraham Avila Jr.**, Founder and CEO of [DataSense Analytics](https://datasenseph.com), for conducting this free training and sharing his knowledge and expertise.  
 His practical approach and tips made the Microsoft tutorial more intuitive and engaging.
 
 ---
@@ -69,10 +69,9 @@ This repo serves as:
 
 - Minor improvements were made to visuals to enhance storytelling.
 - The project has been uploaded and published on **Power BI Service** for sharing and access.
-- Future updates may include more visual variants and advanced DAX formulas.
 
 ---
 
 ## 🖼️ Preview
 
-> *(Insert dashboard screenshot*
+> 
