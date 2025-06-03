@@ -5,6 +5,8 @@ This project is a refined and enhanced version of the Microsoft Power BI tutoria
 
 The project uses the **Adventure Works Sales** dataset and demonstrates the full Power BI lifecycle—from data modeling to report creation—with practical insights, best practices, and visual storytelling.
 
+Made by chatgpt with the appropriate prompt
+
 ---
 
 ## 🚀 Project Highlights
