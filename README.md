@@ -74,4 +74,4 @@ This repo serves as:
 
 ## 🖼️ Preview
 
-> 
+> ![Dashboard Picture](AdventureWorksExecutiveSalesReport_00.png)
